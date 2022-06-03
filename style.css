@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   font-size: 30px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    transition: all0.3s ease-in-out;
+}
+
+.switch{
+    padding: 5px 15px 5px 15px ;
+    font-size: 25px;
+    background-color: rgb(59, 56, 56);
+    color: bisque;
+    border-radius: 3px;
+
+}
